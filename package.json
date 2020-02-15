@@ -97,7 +97,7 @@
     "source-sans-pro": "^2.0.10",
     "spel2js": "^0.2.1",
     "ui-select": "^0.19.6",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@types/angular": "1.6.26",
